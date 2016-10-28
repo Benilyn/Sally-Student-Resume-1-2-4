@@ -1,0 +1,20 @@
+main {
+  padding: 5px;
+}
+
+.education {
+  margin-left: 15px;
+}
+
+
+ .experience {
+  margin-left: 15px;
+}
+
+.company {
+  font-weight: bold;
+  font-size: 20px;
+}
+.education {
+  padding: 30px;
+}
